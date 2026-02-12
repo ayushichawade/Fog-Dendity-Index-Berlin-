@@ -152,16 +152,6 @@ The project includes:
 - Requests-cache
 - NumPy
 
----
-
-## 📂 Project Structure
-
-```
-│── urbantech_fog.ipynb
-│── berlin-260205.osm.pbf
-│── weather_data.csv
-│── README.md
-```
 
 ---
 
@@ -175,9 +165,9 @@ The methodology is based on:
 - Multi-parameter fog detection approaches in atmospheric research
 
 References include:
-- Imteaz et al. (2011)
-- REAL-Fog research framework
-- Operational fog diagnostics literature
+- [Imteaz et al. (2011)](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0921344911001947) 
+- [REAL-Fog research framework](https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F339074628_REAL-Fog_A_simple_approach_for_calculating_the_fog_in_the_atmosphere_at_ground_level)
+- [Operational fog diagnostics literature](https://www.google.com/url?q=https%3A%2F%2Fwww.tarmacview.com%2Fglossary%2Ffog%2F)
 
 ---
 
